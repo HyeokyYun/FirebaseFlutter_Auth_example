@@ -2,6 +2,8 @@
 
 FirebaseFlutter Auth - Google Sign-in, Anonymous Example 입니다.
 
+[FirebaseFlutter 홈페이지](https://firebase.flutter.dev/)의
+
 공식 [FirebaseFlutter Auth Example](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_auth/firebase_auth/example) 코드를 일부 수정하여 사용하였습니다.
 
 
